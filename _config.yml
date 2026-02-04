@@ -1,2 +1,6 @@
 title: Motion Documentation
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+# This is required for the theme to function correctly
+url: "https://jaybeemvoid.github.io" 
+baseurl: "" # Leave as "" if this is a user/organization site
